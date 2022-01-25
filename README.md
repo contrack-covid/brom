@@ -67,7 +67,7 @@ Mi chat personal👇
 <details>
 <summary>⚠️ 𝐃𝐈𝐒𝐂𝐋𝐀𝐈𝐌𝐄𝐑 •</summary>
 - ⚠️ 𝚆𝚎 𝚠𝚘𝚗'𝚝 𝚋𝚎 𝚛𝚎𝚜𝚙𝚘𝚗𝚜𝚒𝚋𝚕𝚎 𝚏𝚘𝚛 𝚊𝚗𝚢 𝚔𝚒𝚗𝚍 𝚘𝚏 𝚋𝚊𝚗 𝚍𝚞𝚎 𝚝𝚘 𝚝𝚑𝚒𝚜 𝙲𝚘𝚗𝚏𝚞𝚋𝚘𝚝.
-- 𝙲𝚘𝚗𝚏𝚞𝙱𝚘𝚝 was 𝚖𝚊𝚍𝚎 𝚏𝚘𝚛 𝚏𝚞𝚗 𝚙𝚞𝚛𝚙𝚘𝚜𝚎 𝚊𝚗𝚍 𝚝𝚘 𝚖𝚊𝚔𝚎 group 𝚖𝚊𝚗𝚊𝚐𝚎𝚖𝚎𝚗𝚝 𝚎𝚊𝚜𝚒𝚎𝚛.
+- 𝙰𝚕𝚌𝙱𝚘𝚝 was 𝚖𝚊𝚍𝚎 𝚏𝚘𝚛 𝚏𝚞𝚗 𝚙𝚞𝚛𝚙𝚘𝚜𝚎 𝚊𝚗𝚍 𝚝𝚘 𝚖𝚊𝚔𝚎 group 𝚖𝚊𝚗𝚊𝚐𝚎𝚖𝚎𝚗𝚝 𝚎𝚊𝚜𝚒𝚎𝚛.
 - 𝙸𝚝'𝚜 𝚢𝚘𝚞𝚛 𝚌𝚘𝚗𝚌𝚎𝚛𝚗 𝚒𝚏 𝚢𝚘𝚞 𝚜𝚙𝚊𝚖 𝚊𝚗𝚍 𝚐𝚎𝚝𝚜 𝚢𝚘𝚞𝚛 𝚊𝚌𝚌𝚘𝚞𝚗𝚝 𝚋𝚊𝚗𝚗𝚎𝚍.
 - 𝙰𝚕𝚜𝚘, 𝙵𝚘𝚛𝚔𝚜 𝚠𝚘𝚗'𝚝 𝚋𝚎 entertained.
 - 𝙸𝚏 𝚢𝚘𝚞 𝚏𝚘𝚛𝚔 this 𝚛𝚎𝚙𝚘 𝚊𝚗𝚍 𝚎𝚍𝚒𝚝 plugins, 𝚒𝚝'𝚜 𝚢𝚘𝚞𝚛 𝚌𝚘𝚗𝚌𝚎𝚛𝚗 𝚏𝚘𝚛 𝚏𝚞𝚛𝚝𝚑𝚎𝚛 𝚞𝚙𝚍𝚊𝚝𝚎𝚜.
@@ -82,7 +82,7 @@ Mi chat personal👇
 
 <h4 align="center">Copyright (C) 2021 <a href="https://github.com/Confusion245">ConfuBot4</a></h4>
 
-Project [ConfuBot](https://github.com/Confusion245/ConfuBot4) is free software: you can redistribute it and/or modify
+Project [AlcBot2]](https://github.com/Confusion245/AlcBot2) is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
 the Free Software Foundation, either version 3 of the License, or
 (at your option) any later version.
