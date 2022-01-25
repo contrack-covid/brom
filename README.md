@@ -15,7 +15,7 @@
 <a href="#"><img title="Confu" src="https://img.shields.io/static/v1?label=WhatsApp&message=Bot&color=blue"></a>
 </p>
 
-## Hostear 24/7
+## Hostear tu Bot 24/7
 * [Beet-Nodes](billing.hirobeet.xyz)
 <p align="center">
  <a href="https://wa.me/51923568749"><img alt="WhatsApp Personal" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=black"/></a>
@@ -82,7 +82,7 @@ Mi chat personal👇
 
 <h4 align="center">Copyright (C) 2021 <a href="https://github.com/Confusion245">ConfuBot4</a></h4>
 
-Project [AlcBot2]](https://github.com/Confusion245/AlcBot2) is free software: you can redistribute it and/or modify
+Project [AlcBot2](https://github.com/Confusion245/AlcBot2) is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
 the Free Software Foundation, either version 3 of the License, or
 (at your option) any later version.
