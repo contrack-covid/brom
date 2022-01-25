@@ -16,7 +16,7 @@
 </p>
 
 ## Hostear 24/7
-billing.hirobeet.xyz
+* [Beet-Nodes](billing.hirobeet.xyz)
 <p align="center">
  <a href="https://wa.me/51923568749"><img alt="WhatsApp Personal" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=black"/></a>
 </p>
