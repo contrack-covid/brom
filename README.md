@@ -33,8 +33,8 @@
 # Clonar repositorio e instalar de dependencias
 ```bash
 🌿 git clone https://github.com/Confusion245/AlcBot2.git
-🐢 cd AlcBot
-🌿 cd AlcBot
+🐢 cd AlcBot2
+🌿 cd AlcBot2
 🐢 npm start
 ```
 ## Comandos Termux
